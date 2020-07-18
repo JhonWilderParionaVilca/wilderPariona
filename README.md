@@ -13,11 +13,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilderpariona" alt="wilderpariona" /> </p>
 
 <p>
-  <p align="left">
+
+<p align="left">
+    
 - 💬 Ask me about **Git, React**
     
 - 📫 How to reach me **jhon.pariona.27@unsch.edu.pe**
- </p>
+
+</p>
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=wilderpariona&show_icons=true" alt="wilderpariona" /> </p>
 </p>
