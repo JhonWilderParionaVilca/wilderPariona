@@ -41,5 +41,5 @@
 <p align="center">
   <a href="https://twitter.com/pariona_wilder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pariona_wilder" height="20" width="20" /></a>
   <a href="https://linkedin.com/in/wilder-pariona" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="wilder-pariona" height="20" width="20" /></a>
-  <a href="https://fb.com/wilder.pariona" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ftp.mirror" height="20" /></a>
+  <a href="https://fb.com/pariona.wilder" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ftp.mirror" height="20" /></a>
 </p>
