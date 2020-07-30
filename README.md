@@ -16,7 +16,7 @@
 <!-- presentation -->
 <h4 align="center">A passionate developer from Perú  <img src="https://cultofthepartyparrot.com/flags/hd/peruparrot.gif" height="30"/> </h3>
 <!-- description -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wilderpariona&hide_border=true" alt="wilderpariona"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wilderpariona&hide_border=true&count_private=true&theme=dracula" alt="wilderpariona"/>
 
 I study system engineering at San Cristóbal of Huamanga University.
 I like learning new things about software developer.
