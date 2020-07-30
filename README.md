@@ -48,3 +48,13 @@ I like learning new things about software developer.
 [twiter]: https://twitter.com/pariona_wilder
 [linkedin]: https://linkedin.com/in/wilder-pariona
 [fb]: https://fb.com/pariona.wilder
+
+<!-- Recursos -->
+
+<!-- ------------------ https://cultofthepartyparrot.com/ ------------------ -->
+
+<!-- ---------------- https://visitor-badge.glitch.me/#docs ---------------- -->
+
+<!-- --------- https://github.com/anuraghazra/github-readme-stats ---------- -->
+
+<!-- ------- https://github.com/kefranabg/readme-md-generator#readme ------- -->
