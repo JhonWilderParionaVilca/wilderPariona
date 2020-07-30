@@ -24,7 +24,7 @@ I like learning new things about software developer.
 - 📫 How to reach me **jhon.pariona.27@unsch.edu.pe**
 
 <!-- favorite tools -->
-<h2 align="center">Favorite Tools</h3>
+<!-- <h2 align="center">Favorite Tools</h3> -->
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilderPariona&layout=compact" alt="wilderpariona"/>
 
