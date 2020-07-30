@@ -26,7 +26,7 @@ I like learning new things about software developer.
 <!-- favorite tools -->
 <h2 align="center">Favorite Tools</h3>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilderPariona&" alt="wilderpariona"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilderPariona&layout=compact" alt="wilderpariona"/>
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/270616/screenshots/4884916/2018-07-28_21_11_02.gif" alt="react"   height=100"/>
