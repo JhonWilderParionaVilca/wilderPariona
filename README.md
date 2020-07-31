@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=wilderpariona" alt="wilderpariona" />
 </div>
 <!-- presentation -->
-<h4 align="center">A passionate developer from Perú  <img src="https://cultofthepartyparrot.com/flags/hd/peruparrot.gif" height="30"/> </h3>
+<h4 align="center">A passionate developer from Perú </h4>
 <!-- description -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wilderpariona&hide_border=true&count_private=true&theme=buefy" alt="wilderpariona"/>
 <br/>
