@@ -21,7 +21,7 @@ I study system engineering at San Cristóbal of Huamanga University.
 I like learning new things about software developer.
 
 - 💬 Ask me about **Git, React**
-- 📫 How to reach me **jhon.pariona.27@unsch.edu.pe**
+- 🔎 You can find me on [linkedIn](https://www.linkedin.com/in/wilder-pariona/)
 
 <!-- favorite tools -->
 <!-- <h2 align="center">Favorite Tools</h3> -->
