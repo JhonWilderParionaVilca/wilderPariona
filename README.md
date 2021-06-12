@@ -2,46 +2,56 @@
   Hi
   <img src="https://raw.githubusercontent.com/jhonPariona/images/master/ProfileReadme/Hi.gif" alt="hello" height="30"/>
   , Welcome to my GitHub Repository
-  <img src="https://camo.githubusercontent.com/e15e75521862be103c834df436a8f9e075c945e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" alt="octocat" height="30"/>
+  <img src="http://pngimg.com/uploads/github/github_PNG90.png" alt="octocat" height="30"/>
 </h2>
-<!-- gif -->
+
+<!-- gif 
 <div align="center">
   <img src="https://raw.githubusercontent.com/jhonPariona/images/master/ProfileReadme/ezgif.com-gif-maker.gif"/>
 </div>
+-->
+
 <!-- badges -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=wilderpariona" alt="wilderpariona" />
 </div>
-<!-- presentation -->
-<h4 align="center">A passionate developer from Perú </h4>
-<!-- description -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wilderpariona&hide_border=true&count_private=true&theme=buefy" alt="wilderpariona"/>
-<br/>
-I study system engineering at San Cristóbal of Huamanga University.
-I like learning new things about software developer.
 
-- 💬 Ask me about **Git, React**
-- 🔎 You can find me on [linkedIn](https://www.linkedin.com/in/wilder-pariona/)
+<!-- presentation -->
+<h4 align="center"> Perú </h4>
+
+
+<!-- description -->
+<div align="left">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=wilderpariona&hide_border=true&count_private=true&theme=buefy" alt="wilderpariona"/>
+  <br/>
+  I study system engineering at San Cristóbal of Huamanga University.
+  I like learning new things about software developer.
+
+  - 💬 Ask me about **Git, React**
+  - 🔎 You can find me on [linkedIn](https://www.linkedin.com/in/wilder-pariona/)
+</div>
 
 <!-- favorite tools -->
 <!-- <h2 align="center">Favorite Tools</h3> -->
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilderPariona&layout=compact" alt="wilderpariona"/>
+<br/><br/>
+<h4 align="center"> Favorite tools </h4>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/270616/screenshots/4884916/2018-07-28_21_11_02.gif" alt="react"   height="80"/>
-  <img src="https://camo.githubusercontent.com/5a854f8dc065b628da0dd42fd83eddaf07e75027/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" alt="react"   height="80"/>
-  <img src="https://camo.githubusercontent.com/9a5abb6694acc0a7c27c79f6846a90ea8117a369/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e77656270" alt="react"   height="80"/>
-  <img src="https://miro.medium.com/max/535/1*JGcKFmzk_K1zweGMBQaJQg.png" alt="react"  height="80"/>
-  <img src="http://daphnisys.com/images/react_native1.gif" alt="react"   height="80"/>
-  <img src="https://roszkowski.dev/images/2020-05-04/Flutter-logo-animation-v1-2.gif" alt="react"  height="80"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git"   height="80"/>
+  <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" alt="javascript"   height="80"/>
+  <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" alt="react"   height="80"/>
+  <img src="https://camo.githubusercontent.com/9a5abb6694acc0a7c27c79f6846a90ea8117a369/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e77656270" alt="node"   height="80"/>
+  <img src="https://media.giphy.com/media/wgFWLRiND4bkyYR4IN/giphy.gif" alt="mongodb"  height="80"/>
+  <img src="https://media.giphy.com/media/TLaDluUpSbCKsSskMm/giphy.gif" alt="flutter"  height="80"/>
 </div>
 
+<br/><br/>
+
 <div align="center">
 
-[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pariona_wilder" height="20" width="20" />][twiter]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="17"/>][fb]
-[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="wilder-pariona" height="20" width="20" />][linkedin]
+[<img align="center" title="👉 Facebook" src="https://image.flaticon.com/icons/png/512/725/725289.png" alt="facebook" height="30" width="30"/>][fb]
+[<img align="center" title="👉 twitter" src="https://image.flaticon.com/icons/png/512/725/725311.png" alt="twitter" height="30" width="30" />][twiter]
+[<img align="center" title="👉 linkedin" src="https://image.flaticon.com/icons/png/512/725/725337.png" alt="linkedin" height="30" width="30" />][linkedin]
 
 </div>
 
@@ -58,3 +68,8 @@ I like learning new things about software developer.
 <!-- --------- https://github.com/anuraghazra/github-readme-stats ---------- -->
 
 <!-- ------- https://github.com/kefranabg/readme-md-generator#readme ------- -->
+
+<div align="center">
+  <div>Iconos diseñados por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></div>
+</div>
+
