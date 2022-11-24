@@ -45,19 +45,6 @@
   <img src="https://media.giphy.com/media/TLaDluUpSbCKsSskMm/giphy.gif" alt="flutter"  height="80"/>
 </div>
 
-<br/><br/>
-
-<div align="center">
-
-[<img align="center" title="👉 Facebook" src="https://image.flaticon.com/icons/png/512/725/725289.png" alt="facebook" height="30" width="30"/>][fb]
-[<img align="center" title="👉 twitter" src="https://image.flaticon.com/icons/png/512/725/725311.png" alt="twitter" height="30" width="30" />][twiter]
-[<img align="center" title="👉 linkedin" src="https://image.flaticon.com/icons/png/512/725/725337.png" alt="linkedin" height="30" width="30" />][linkedin]
-
-</div>
-
-[twiter]: https://twitter.com/pariona_wilder
-[linkedin]: https://linkedin.com/in/wilder-pariona
-[fb]: https://fb.com/pariona.wilder
 
 <!-- Recursos -->
 
@@ -68,8 +55,4 @@
 <!-- --------- https://github.com/anuraghazra/github-readme-stats ---------- -->
 
 <!-- ------- https://github.com/kefranabg/readme-md-generator#readme ------- -->
-
-<div align="center">
-  <div>Iconos diseñados por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></div>
-</div>
 
